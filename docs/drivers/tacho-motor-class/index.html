@@ -1,0 +1,481 @@
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Tacho Motor Class</title>
+    
+    <!-- Description content not available -->
+    
+    <link rel="alternate" type="application/atom+xml" href="/ev3dev.github.io/news/atom.xml" title="Atom feed">
+    <link rel="icon" href="/ev3dev.github.io/favicon.ico" />
+
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/ev3dev.github.io/stylesheets/bootstrap.css">
+
+    <!-- Custom styles -->
+    <link rel="stylesheet" href="/ev3dev.github.io/stylesheets/site-structure.css">
+    <link rel="stylesheet" href="/ev3dev.github.io/stylesheets/landing-content.css">
+
+    <!-- Template for search results -->
+    <script type="text/html" id="search-result-template">
+        <div class="search-result">
+            <a data-href="href"><h4 data-content="title"></h4></a>
+            <span data-content="breadcrumbs" class="search-result-breadcrumbs"></span>
+            <span data-content="author" class="search-result-author"></span><br/>
+        </div>
+    </script>
+
+    
+
+    
+        <!-- Google Analytics excluded: not an official site build -->
+    
+</head>
+
+
+<body class="no-jumbotron ">
+
+    <div id="header">
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/ev3dev.github.io/">
+                    <img id="brand-logo" src="/ev3dev.github.io/images/ev3dev_logo_white.png" alt="ev3dev logo" />
+                </a>
+            </div>
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav" id="main-nav">
+                    <li>
+                        <a href="/ev3dev.github.io/docs/getting-started" title="Our Getting Started guide">Start Here</a>
+                    </li>
+                    <li>
+                        <a href="/ev3dev.github.io/download" title="SD card images for ev3dev">Downloads</a>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" title="Documentation on using ev3dev">
+                            Documentation
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="/ev3dev.github.io/docs/tutorials">Tutorials</a>
+                            </li>
+                            <li>
+                                <a href="/ev3dev.github.io/docs/programming-languages">Programming Languages</a>
+                            </li>
+                            <li>
+                                <a href="/ev3dev.github.io/docs/networking">Networking</a>
+                            </li>
+                            <li>
+                                <a href="/ev3dev.github.io/docs/driver-overview">Hardware Drivers</a>
+                            </li>
+                            <li role="separator" class="divider"></li>
+                            <li>
+                                <a href="/ev3dev.github.io/docs">More...</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/ev3dev.github.io/support" title="Get Help with ev3dev">Support</a>
+                    </li>
+                    <li>
+                        <a href="/ev3dev.github.io/news" title="ev3dev news">News</a>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                            Community
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="/ev3dev.github.io/contribute" title="How to contribute to ev3dev">Contribute</a>
+                            </li>
+                            <li>
+                                <a href="/ev3dev.github.io/share" title="Share the word on ev3dev with others">Share</a>
+                            </li>
+                            <li>
+                                <a href="/ev3dev.github.io/projects" title="Discover projects that use ev3dev">Project showcase</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                <!-- items below float right, so appear in reverse order -->
+                <div id="search-container">
+                    <form class="navbar-form navbar-right dropdown" onsubmit="return false;">
+                        <input type="text" id="search-input" class="form-control" placeholder="Quick nav" autocomplete="off" />
+                        <div class="dropdown-menu" id="search-dropdown">
+                            <div class="search-results-container" id="search-no-data-warning">
+                                <span class="glyphicon glyphicon-alert heading-icon" aria-hidden="true"></span>
+                                We were unable to retrieve search data from the
+                                server. Make sure that JavaScript is enabled and
+                                that nothing is blocking network access.
+                            </div>
+
+                            <div class="search-results-container" id="search-results-docs">
+                                <h2>In docs</h2>
+                                <div data-content="docs-results">
+                                    <div class="no-results-note">No results</div>
+                                </div>
+                            </div>
+
+                            <div class="search-results-container" id="search-results-projects">
+                                <h2>In projects</h2>
+                                <div data-content="project-results">
+                                    <div class="no-results-note">No results</div>
+                                </div>
+                            </div>
+
+                            <div class="search-results-container" id="search-results-news">
+                                <h2>In news</h2>
+                                <div data-content="news-results">
+                                    <div class="no-results-note">No results</div>
+                                </div>
+                            </div>
+
+                            <div class="search-results-container" id="search-results-misc">
+                                <h2>In other pages</h2>
+                                <div data-content="misc-results">
+                                    <div class="no-results-note">No results</div>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </nav>
+</div>
+
+    
+    
+    <div class="container">
+        
+
+<div class="page-header">
+    
+        <a class="btn btn-primary pull-right" href="https://github.com/ev3dev/lego-linux-drivers/edit/master/motors/tacho_motor_class.c"><span class="glyphicon glyphicon-pencil"></span> Edit on Github</a>
+    
+    <h1>
+        Tacho Motor Class
+        <small></small>
+    </h1>
+</div>
+    </div>
+    
+    
+    <div class="container">
+    
+        
+
+<hr />
+<div class="nav-dropdown-arrow">
+    <div>
+        
+
+<ol class="breadcrumb" vocab="http://schema.org" typeof="BreadcrumbList">
+    
+    
+
+    
+        
+
+        
+        
+
+        <li property="itemListElement" typeof="ListItem" class="">
+            <a href="/ev3dev.github.io/docs/" property="item" typeof="WebPage">
+                <span property="name">Documentation</span>
+            </a>
+            <meta property="position" content="1">
+        </li>
+        
+    
+        
+
+        
+        
+
+        <li property="itemListElement" typeof="ListItem" class="">
+            <a href="/ev3dev.github.io/docs/drivers/" property="item" typeof="WebPage">
+                <span property="name">Kernel Drivers</span>
+            </a>
+            <meta property="position" content="2">
+        </li>
+        
+    
+        
+
+        
+        
+
+        <li property="itemListElement" typeof="ListItem" class="active">
+            <span href="/ev3dev.github.io/docs/drivers/" property="item" typeof="WebPage">
+                <span property="name">Tacho Motor Class</span>
+            </span>
+            <meta property="position" content="3">
+        </li>
+        
+    
+</ol>
+    </div>
+    
+        <div class="alert alert-info">
+            <span class="glyphicon glyphicon-info-sign " aria-hidden="true"></span>
+            This docs page is for kernel version <code>4.4.44-18-ev3dev-ev3</code>
+        </div>
+    
+</div>
+<hr />
+
+
+
+<p>The <code class="highlighter-rouge">tacho-motor</code> class provides a uniform interface for using motors with
+positional and directional feedback such as the EV3 and NXT motors. This
+feedback allows for precise control of the motors.</p>
+
+<h3 id="sysfs-attributes">sysfs Attributes</h3>
+
+<p>Tacho motors can be found at <code class="highlighter-rouge">/sys/class/tacho-motor/motor&lt;N&gt;</code>, where <code class="highlighter-rouge">&lt;N&gt;</code>
+is incremented each time a motor is loaded (it is not related to which port
+the motor is plugged in to).</p>
+
+<dl>
+  <dt><code class="highlighter-rouge">address</code></dt>
+  <dd>(read-only) Returns the name of the port that the motor is connected to.</dd>
+  <dt><code class="highlighter-rouge">command</code></dt>
+  <dd>(write-only) Sends a command to the motor controller. Possible values are:
+
+    <ul>
+      <li><code class="highlighter-rouge">run-forever</code>: Causes the motor to run until another command is sent.</li>
+      <li><code class="highlighter-rouge">run-to-abs-pos</code>: Runs the motor to an absolute position specified by
+<code class="highlighter-rouge">position_sp</code> and then stops the motor using the command specified in
+<code class="highlighter-rouge">stop_action</code>.</li>
+      <li><code class="highlighter-rouge">run-to-rel-pos</code>: Runs the motor to a position relative to the current
+<code class="highlighter-rouge">position</code> value. The new position will be current <code class="highlighter-rouge">position</code> +
+<code class="highlighter-rouge">position_sp</code>. When the new position is reached, the motor will stop
+ using the command specified by <code class="highlighter-rouge">stop_action</code>.</li>
+      <li><code class="highlighter-rouge">run-timed</code>: Run the motor for the amount of time specified in
+<code class="highlighter-rouge">time_sp</code> and then stops the motor using the command specified by
+<code class="highlighter-rouge">stop_action</code>.</li>
+      <li><code class="highlighter-rouge">run-direct</code>: Runs the motor using the duty cycle specified by
+<code class="highlighter-rouge">duty_cycle_sp</code>. Unlike other run commands, changing <code class="highlighter-rouge">duty_cycle_sp</code>
+ while running <em>will</em> take effect immediately.</li>
+      <li><code class="highlighter-rouge">stop</code>: Stop any of the run commands before they are complete using
+the command specified by <code class="highlighter-rouge">stop_action</code>.</li>
+      <li><code class="highlighter-rouge">reset</code>: Resets all of the motor parameter attributes to their default
+ values. This will also have the effect of stopping the motor.</li>
+    </ul>
+
+    <p>Not all commands may be supported. Read the <code class="highlighter-rouge">commands</code> attribute to get
+  the list of commands supported by a particular driver.</p>
+  </dd>
+  <dt><code class="highlighter-rouge">commands</code></dt>
+  <dd>(read-only) Returns a space separated list of commands that are supported
+by the motor controller.</dd>
+  <dt><code class="highlighter-rouge">count_per_rot</code></dt>
+  <dd>(read-only) Returns the number of tacho counts in one rotation of the
+motor. Tacho counts are used by the position and speed attributes, so you
+can use this value to convert from rotations or degrees to tacho counts.
+(rotation motors only)</dd>
+  <dt><code class="highlighter-rouge">count_per_m</code></dt>
+  <dd>(read-only) Returns the number of tacho counts in one meter of travel
+of the motor. Tacho counts are used by the position and speed
+attributes, so you can use this value to convert from distance to tacho
+counts. (linear motors only)</dd>
+  <dt><code class="highlighter-rouge">full_travel_count</code></dt>
+  <dd>(read-only) Returns the number of tacho counts in the full travel of
+the motor. When combined with the <code class="highlighter-rouge">count_per_m</code> atribute, you can use
+this value to calculate the maximum travel distance of the motor.
+(linear motors only)</dd>
+  <dt><code class="highlighter-rouge">driver_name</code></dt>
+  <dd>(read-only) Returns the name of the driver that provides this tacho motor
+device.</dd>
+  <dt><code class="highlighter-rouge">duty_cycle</code></dt>
+  <dd>(read-only) Returns the current duty cycle of the motor. Units are percent.
+Values are -100 to 100.</dd>
+  <dt><code class="highlighter-rouge">duty_cycle_sp</code></dt>
+  <dd>(read/write) Writing sets the duty cycle setpoint. Reading returns the
+current value. Units are in percent. Valid values are -100 to 100. A
+negative value causes the motor to rotate in reverse.</dd>
+  <dt><code class="highlighter-rouge">polarity</code></dt>
+  <dd>(read/write) Sets the polarity of the motor. Valid values are:
+
+    <ul>
+      <li><code class="highlighter-rouge">normal</code>: A positive duty cycle will cause the motor to rotate
+clockwise.</li>
+      <li><code class="highlighter-rouge">inversed</code>: A positive duty cycle will cause the motor to rotate
+ counter-clockwise.</li>
+    </ul>
+  </dd>
+  <dt><code class="highlighter-rouge">position</code></dt>
+  <dd>(read/write) Returns the current position of the motor in pulses of the
+rotary encoder. When the motor rotates clockwise, the position will
+increase. Likewise, rotating counter-clockwise causes the position to
+decrease. Writing will set the position to that value. The range is
+-2,147,483,648 and +2,147,483,647 tachometer counts (32-bit signed integer).</dd>
+  <dt><code class="highlighter-rouge">hold_pid/Kd</code></dt>
+  <dd>(read/write) The derivative constant for the position PID.</dd>
+  <dt><code class="highlighter-rouge">hold_pid/Ki</code></dt>
+  <dd>(read/write) The integral constant for the position PID.</dd>
+  <dt><code class="highlighter-rouge">hold_pid/Kp</code></dt>
+  <dd>(read/write) The proportional constant for the position PID.</dd>
+  <dt><code class="highlighter-rouge">max_speed</code></dt>
+  <dd>(read) Returns the maximum value that is accepted by the <code class="highlighter-rouge">speed_sp</code>
+attribute. This may be slightly different than the maximum speed that
+a particular motor can reach - it’s the maximum theoretical speed.</dd>
+  <dt><code class="highlighter-rouge">position_sp</code></dt>
+  <dd>(read/write) Writing specifies the target position for the <code class="highlighter-rouge">run-to-abs-pos</code>
+and <code class="highlighter-rouge">run-to-rel-pos</code> commands. Reading returns the current value. Units are
+in tacho counts. You can use the value returned by <code class="highlighter-rouge">counts_per_rot</code> to
+convert tacho counts to/from rotations or degrees. The range is
+-2,147,483,648 and +2,147,483,647 tachometer counts (32-bit signed integer).</dd>
+  <dt><code class="highlighter-rouge">speed</code></dt>
+  <dd>(read-only) Returns the current motor speed in tacho counts per second.
+Note, this is not necessarily degrees (although it is for LEGO motors).
+Use the <code class="highlighter-rouge">count_per_rot</code> attribute to convert this value to RPM or deg/sec.</dd>
+  <dt><code class="highlighter-rouge">speed_sp</code></dt>
+  <dd>(read/write) Writing sets the target speed in tacho counts per second used
+for all <code class="highlighter-rouge">run-*</code> commands except <code class="highlighter-rouge">run-direct</code>. Reading returns the current
+value. A negative value causes the motor to rotate in reverse with the
+exception of <code class="highlighter-rouge">run-to-*-pos</code> commands where the sign is ignored. Use the
+<code class="highlighter-rouge">count_per_rot</code> attribute to convert RPM or deg/sec to tacho counts per
+second. Use the <code class="highlighter-rouge">count_per_m</code> attribute to convert m/s to tacho counts per
+second.</dd>
+  <dt><code class="highlighter-rouge">ramp_up_sp</code></dt>
+  <dd>(read/write) Writing sets the ramp up setpoint. Reading returns the
+current value. Units are in milliseconds and must be positive. When set
+to a non-zero value, the motor speed will increase from 0 to 100% of
+<code class="highlighter-rouge">max_speed</code> over the span of this setpoint. The actual ramp time is the
+ratio of the difference between the <code class="highlighter-rouge">speed_sp</code> and the current <code class="highlighter-rouge">speed</code>
+and max_speed multiplied by <code class="highlighter-rouge">ramp_up_sp</code>. Values must not be negative.</dd>
+  <dt><code class="highlighter-rouge">ramp_down_sp</code></dt>
+  <dd>(read/write) Writing sets the ramp down setpoint. Reading returns the
+current value. Units are in milliseconds and must be positive. When set
+to a non-zero value, the motor speed will decrease from 0 to 100% of
+<code class="highlighter-rouge">max_speed</code> over the span of this setpoint. The actual ramp time is the
+ratio of the difference between the <code class="highlighter-rouge">speed_sp</code> and the current <code class="highlighter-rouge">speed</code>
+and max_speed multiplied by <code class="highlighter-rouge">ramp_down_sp</code>. Values must not be negative.</dd>
+  <dt><code class="highlighter-rouge">speed_pid/Kd</code></dt>
+  <dd>(read/write) The derivative constant for the speed regulation PID.</dd>
+  <dt><code class="highlighter-rouge">speed_pid/Ki</code></dt>
+  <dd>(read/write) The integral constant for the speed regulation PID.</dd>
+  <dt><code class="highlighter-rouge">speed_pid/Kp</code></dt>
+  <dd>(read/write) The proportional constant for the speed regulation PID.</dd>
+  <dt><code class="highlighter-rouge">state</code></dt>
+  <dd>(read-only) Reading returns a space separated list of state flags.
+Possible flags are:
+
+    <ul>
+      <li><code class="highlighter-rouge">running</code>: Power is being sent to the motor.</li>
+      <li><code class="highlighter-rouge">ramping</code>: The motor is ramping up or down and has not yet reached a
+constant output level.</li>
+      <li><code class="highlighter-rouge">holding</code>: The motor is not turning, but rather attempting to hold a
+fixed position.</li>
+      <li><code class="highlighter-rouge">overloaded</code>: The motor is turning, but cannot reach its <code class="highlighter-rouge">speed_sp</code>.</li>
+      <li><code class="highlighter-rouge">stalled</code>: The motor is not turning when it should be.</li>
+    </ul>
+  </dd>
+  <dt><code class="highlighter-rouge">stop_action</code></dt>
+  <dd>(read/write) Reading returns the current stop action. Writing sets the
+stop action. The value determines the motors behavior when <code class="highlighter-rouge">command</code> is
+set to <code class="highlighter-rouge">stop</code>. Possible values are:
+
+    <ul>
+      <li><code class="highlighter-rouge">coast</code>: Removes power from the motor. The motor will freely coast to
+ a stop.</li>
+      <li><code class="highlighter-rouge">brake</code>: Removes power from the motor and creates a passive electrical
+ load. This is usually done by shorting the motor terminals together.
+ This load will absorb the energy from the rotation of the motors and
+ cause the motor to stop more quickly than coasting.</li>
+      <li><code class="highlighter-rouge">hold</code>: Causes the motor to actively try to hold the current position.
+ If an external force tries to turn the motor, the motor will “push
+ back” to maintain its position.</li>
+    </ul>
+
+    <p>Not all actions may be supported. Read <code class="highlighter-rouge">stop_actions</code> to get the
+  actions available for a particular driver.</p>
+  </dd>
+  <dt><code class="highlighter-rouge">stop_actions</code></dt>
+  <dd>(read-only) Returns a space-separated list of stop actions supported by the
+motor controller.</dd>
+  <dt><code class="highlighter-rouge">time_sp</code></dt>
+  <dd>(read/write) Writing specifies the amount of time the motor will run when
+using the <code class="highlighter-rouge">run-timed</code> command. Reading returns the current value. Units
+are in milliseconds. Values must not be negative.</dd>
+</dl>
+
+
+    
+    </div>
+    
+    <div id="footer">
+
+        <div class="cclicense">
+    
+            <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">
+                www.ev3dev.org (with the exception of the projects pages)
+            </span>
+            is licensed under
+            <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+                <img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/80x15.png" />
+            </a>.
+            <br />
+            You are free to copy the text and images, but please be courteous and acknowledge the source.
+    
+        </div>
+
+    <br />
+    <div class="container">
+        <span>
+            Project maintained by <a href="https://github.com/rhempel">Ralph Hempel</a>
+            and <a href="https://github.com/dlech">David Lechner</a>, with help from the community
+        </span>
+    </div>
+</div>
+
+    
+
+<!-- Custom styles -->
+<link rel="stylesheet" href="/ev3dev.github.io/stylesheets/search.css">
+<link rel="stylesheet" href="/ev3dev.github.io/stylesheets/page-content.css">
+<link rel="stylesheet" href="/ev3dev.github.io/stylesheets/user-cards.css">
+<link rel="stylesheet" href="/ev3dev.github.io/stylesheets/tabs.css">
+
+<!-- Python code highlighting -->
+<link rel="stylesheet" href="/ev3dev.github.io/stylesheets/pygments/monokai.css" />
+
+<!-- 3rd-party libraries -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+<script src="/ev3dev.github.io/javascripts/bootstrap/bootstrap.min.js"></script>
+<script src="/ev3dev.github.io/javascripts/jquery.getUrlParam.js"></script>
+<script src="/ev3dev.github.io/javascripts/jquery.loadTemplate-1.4.4.min.js"></script>
+<script src="/ev3dev.github.io/javascripts/respond.js"></script>
+<script src="/ev3dev.github.io/javascripts/ua-parser.min.js"></script>
+<script src="https://unpkg.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
+
+
+<!-- Caches data from requests to API endpoints -->
+<script src="/ev3dev.github.io/javascripts/api-cache.js"></script>
+<!-- Loads user-cards from GH API -->
+<script src="/ev3dev.github.io/javascripts/cards.js"></script>
+<!-- Configures special anchors to link to the most recent ev3dev release -->
+<script src="/ev3dev.github.io/javascripts/releases.js"></script>
+<!-- Responds to queries typed into the "Quick nav" box -->
+<script src="/ev3dev.github.io/javascripts/search.js"></script>
+<!-- Converts static descriptors of tab target content into live text and links -->
+<script src="/ev3dev.github.io/javascripts/tabs.js"></script>
+<!-- Adds classes and other styles to pages where hard-coded css can't be used -->
+<script src="/ev3dev.github.io/javascripts/style-helpers.js"></script>
+</body>
+</html>
+

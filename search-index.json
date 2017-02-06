@@ -1,0 +1,2363 @@
+[
+    
+    {
+      "title"    : "Ros And Wiimote",
+        "href": "/ev3dev.github.io/projects/2017/02/05/ROS-and-wiimote/",
+        "author":  "@osmado",
+        "date": "05 February 2017",
+        "loopid" : "post-1",
+        "category": "projects"
+    },
+    
+    {
+      "title"    : "Kernel Release Cycle 18",
+        "href": "/ev3dev.github.io/news/2017/01/25/kernel-release-cycle-18/",
+        "author":  "@dlech",
+        "date": "25 January 2017",
+        "loopid" : "post-2",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Announcing ev3dev-jessie-2016-12-21 Release",
+        "href": "/ev3dev.github.io/news/2016/12/21/ev3dev-jessie-2016-12-21-release/",
+        "author":  "@dlech",
+        "date": "21 December 2016",
+        "loopid" : "post-3",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Kernel Release Cycle 17",
+        "href": "/ev3dev.github.io/news/2016/11/16/kernel-release-cycle-17/",
+        "author":  "@dlech",
+        "date": "16 November 2016",
+        "loopid" : "post-4",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Announcing python-ev3dev v0.8.0",
+        "href": "/ev3dev.github.io/news/2016/11/12/python-ev3dev-release-0-8-0/",
+        "author":  "@wasabifan",
+        "date": "12 November 2016",
+        "loopid" : "post-5",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Announcing ev3dev-jessie-2016-10-17 Release",
+        "href": "/ev3dev.github.io/news/2016/10/17/ev3dev-jessie-2016-10-17-release/",
+        "author":  "@dlech",
+        "date": "17 October 2016",
+        "loopid" : "post-6",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Kernel Release Cycle 16",
+        "href": "/ev3dev.github.io/news/2016/10/15/kernel-release-cycle-16/",
+        "author":  "@dlech",
+        "date": "15 October 2016",
+        "loopid" : "post-7",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Kernel Release Cycle 15",
+        "href": "/ev3dev.github.io/news/2016/09/04/kernel-release-cycle-15/",
+        "author":  "@dlech",
+        "date": "04 September 2016",
+        "loopid" : "post-8",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Congkak Robot",
+        "href": "/ev3dev.github.io/projects/2016/08/23/Congkak-Robot/",
+        "author":  "@jimmyasyraf",
+        "date": "23 August 2016",
+        "loopid" : "post-9",
+        "category": "projects"
+    },
+    
+    {
+      "title"    : "Kernel Release Cycle 14",
+        "href": "/ev3dev.github.io/news/2016/08/15/kernel-release-cycle-14/",
+        "author":  "@dlech",
+        "date": "15 August 2016",
+        "loopid" : "post-10",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Mapping",
+        "href": "/ev3dev.github.io/projects/2016/08/07/Mapping/",
+        "author":  "@bmegli",
+        "date": "07 August 2016",
+        "loopid" : "post-11",
+        "category": "projects"
+    },
+    
+    {
+      "title"    : "Ev3dev and Docker",
+        "href": "/ev3dev.github.io/news/2016/08/05/ev3dev-and-docker/",
+        "author":  "@dlech",
+        "date": "05 August 2016",
+        "loopid" : "post-12",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Kernel Release Cycle 13",
+        "href": "/ev3dev.github.io/news/2016/07/24/kernel-release-cycle-13/",
+        "author":  "@dlech",
+        "date": "24 July 2016",
+        "loopid" : "post-13",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Nightly Image Builds",
+        "href": "/ev3dev.github.io/news/2016/07/11/nightly-image-builds/",
+        "author":  "@dlech",
+        "date": "11 July 2016",
+        "loopid" : "post-14",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Kernel Release Cycle 12",
+        "href": "/ev3dev.github.io/news/2016/06/14/Kernel-Release-Cycle-12/",
+        "author":  "@dlech",
+        "date": "14 June 2016",
+        "loopid" : "post-15",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Pathfind3r",
+        "href": "/ev3dev.github.io/projects/2016/06/08/PATHFIND3R/",
+        "author":  "@okanulas",
+        "date": "08 June 2016",
+        "loopid" : "post-16",
+        "category": "projects"
+    },
+    
+    {
+      "title"    : "Kernel Release Cycle 11",
+        "href": "/ev3dev.github.io/news/2016/05/08/Kernel-Release-Cycle-11/",
+        "author":  "@dlech",
+        "date": "08 May 2016",
+        "loopid" : "post-17",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Kernel Release Cycle 10",
+        "href": "/ev3dev.github.io/news/2016/04/11/Kernel-Release-Cycle-10/",
+        "author":  "@dlech",
+        "date": "11 April 2016",
+        "loopid" : "post-18",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Package Archive Moved",
+        "href": "/ev3dev.github.io/news/2016/03/11/Package-Archive-Moved/",
+        "author":  "@dlech",
+        "date": "11 March 2016",
+        "loopid" : "post-19",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Gamepad Omnibot",
+        "href": "/ev3dev.github.io/projects/2016/03/10/Gamepad-Omnibot/",
+        "author":  "@antonvh",
+        "date": "10 March 2016",
+        "loopid" : "post-20",
+        "category": "projects"
+    },
+    
+    {
+      "title"    : "Pix3l Plott3r",
+        "href": "/ev3dev.github.io/projects/2016/02/26/PIX3L-PLOTT3R/",
+        "author":  "@droidsrobotics",
+        "date": "26 February 2016",
+        "loopid" : "post-21",
+        "category": "projects"
+    },
+    
+    {
+      "title"    : "Announcing ev3dev-lang-java v0.2.0",
+        "href": "/ev3dev.github.io/news/2016/02/07/evb-ev3dev-lang-java-release-0.2.0/",
+        "author":  "@jabrena",
+        "date": "07 February 2016",
+        "loopid" : "post-22",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Announcing Support for FatcatLab's EVB",
+        "href": "/ev3dev.github.io/news/2016/01/25/evb-ev3dev-jessie-2016-01-25-release/",
+        "author":  "@dlech",
+        "date": "25 January 2016",
+        "loopid" : "post-23",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Announcing ev3dev-jessie-2015-12-30 Release",
+        "href": "/ev3dev.github.io/news/2015/12/30/ev3dev-jessie-2015-12-30-release/",
+        "author":  "@dlech",
+        "date": "30 December 2015",
+        "loopid" : "post-24",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Package Release: brickman, ev3devkit, zram-init",
+        "href": "/ev3dev.github.io/news/2015/12/15/Package-Release/",
+        "author":  "@dlech",
+        "date": "15 December 2015",
+        "loopid" : "post-25",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Kernel Release Cycle 9",
+        "href": "/ev3dev.github.io/news/2015/12/15/Kernel-Release-Cycle-9/",
+        "author":  "@dlech",
+        "date": "15 December 2015",
+        "loopid" : "post-26",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "A New Look for the www.ev3dev.org Website",
+        "href": "/ev3dev.github.io/news/2015/11/18/new-look/",
+        "author":  "@dlech",
+        "date": "18 November 2015",
+        "loopid" : "post-27",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Kernel Release Cycle 8",
+        "href": "/ev3dev.github.io/news/2015/11/09/Kernel-Release-Cycle-8/",
+        "author":  "@dlech",
+        "date": "09 November 2015",
+        "loopid" : "post-28",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Image release rpi2-ev3dev-jessie-2015-09-15",
+        "href": "/ev3dev.github.io/news/2015/09/15/rpi2-ev3dev-jessie-2015-09-15-release/",
+        "author":  "@dlech",
+        "date": "15 September 2015",
+        "loopid" : "post-29",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Image release rpi-ev3dev-jessie-2015-09-15",
+        "href": "/ev3dev.github.io/news/2015/09/15/rpi-ev3dev-jessie-2015-09-15-release/",
+        "author":  "@dlech",
+        "date": "15 September 2015",
+        "loopid" : "post-30",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Image release ev3-ev3dev-jessie-2015-09-13",
+        "href": "/ev3dev.github.io/news/2015/09/13/ev3-ev3dev-jessie-2015-09-13-release/",
+        "author":  "@dlech",
+        "date": "13 September 2015",
+        "loopid" : "post-31",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Vote for ev3dev!",
+        "href": "/ev3dev.github.io/news/2015/09/07/vote-for-ev3dev/",
+        "author":  "@dlech",
+        "date": "07 September 2015",
+        "loopid" : "post-32",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Kernel Release: v3.16.7-ckt16-7-ev3dev-ev3",
+        "href": "/ev3dev.github.io/news/2015/09/06/Kernel-Release-v3.16.7-ckt16-7-ev3dev-ev3/",
+        "author":  "@dlech",
+        "date": "06 September 2015",
+        "loopid" : "post-33",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Color LCD on the EV3",
+        "href": "/ev3dev.github.io/news/2015/07/24/Color-LCD-on-the-EV3/",
+        "author":  "@dlech",
+        "date": "24 July 2015",
+        "loopid" : "post-34",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Image release ev3-ev3dev-jessie-2015-07-08",
+        "href": "/ev3dev.github.io/news/2015/07/08/ev3-ev3dev-jessie-2015-07-08-release/",
+        "author":  "@dlech",
+        "date": "08 July 2015",
+        "loopid" : "post-35",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Kernel Release: v3.16.7-ckt14-6-ev3dev-ev3",
+        "href": "/ev3dev.github.io/news/2015/07/08/Kernel-Release-v3.16.7-ckt14-6-ev3dev-ev3/",
+        "author":  "@dlech",
+        "date": "08 July 2015",
+        "loopid" : "post-36",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Noflo Edgefollowing",
+        "href": "/ev3dev.github.io/projects/2015/05/31/Noflo-EdgeFollowing/",
+        "author":  "@ensonic",
+        "date": "31 May 2015",
+        "loopid" : "post-37",
+        "category": "projects"
+    },
+    
+    {
+      "title"    : "Image release ev3-ev3dev-jessie-2015-05-20",
+        "href": "/ev3dev.github.io/news/2015/05/20/ev3-ev3dev-jessie-2015-05-20-release/",
+        "author":  "@dlech",
+        "date": "20 May 2015",
+        "loopid" : "post-38",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Raspberry Pi 2 Image Release",
+        "href": "/ev3dev.github.io/news/2015/05/19/raspberry-pi-2-image-release/",
+        "author":  "@dlech",
+        "date": "19 May 2015",
+        "loopid" : "post-39",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "RoboSnap KickStarter",
+        "href": "/ev3dev.github.io/news/2015/05/13/robosnap-kickstarter/",
+        "author":  "@dlech",
+        "date": "13 May 2015",
+        "loopid" : "post-40",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Raspberry Pi Image Release",
+        "href": "/ev3dev.github.io/news/2015/05/13/raspberry-pi-image-release/",
+        "author":  "@dlech",
+        "date": "13 May 2015",
+        "loopid" : "post-41",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Ev3 Print3rbot",
+        "href": "/ev3dev.github.io/projects/2015/05/06/EV3-Print3rbot/",
+        "author":  "@cavenel",
+        "date": "06 May 2015",
+        "loopid" : "post-42",
+        "category": "projects"
+    },
+    
+    {
+      "title"    : "Major Release!",
+        "href": "/ev3dev.github.io/news/2015/05/01/Major-Release/",
+        "author":  "@dlech",
+        "date": "01 May 2015",
+        "loopid" : "post-43",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Package Release: connman",
+        "href": "/ev3dev.github.io/news/2015/04/21/Package-Release/",
+        "author":  "@dlech",
+        "date": "21 April 2015",
+        "loopid" : "post-44",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Kernel Release: v3.16.7-ckt9-ev3dev1/dkms3.0",
+        "href": "/ev3dev.github.io/news/2015/04/15/Kernel-Release-v3.16.7-ckt9-ev3dev1/",
+        "author":  "@dlech",
+        "date": "15 April 2015",
+        "loopid" : "post-45",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "SD Card Image Release",
+        "href": "/ev3dev.github.io/news/2015/03/31/SD-Card-Image-Release/",
+        "author":  "@dlech",
+        "date": "31 March 2015",
+        "loopid" : "post-46",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Package Release: brickman",
+        "href": "/ev3dev.github.io/news/2015/03/31/Package-Release/",
+        "author":  "@dlech",
+        "date": "31 March 2015",
+        "loopid" : "post-47",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Dalek",
+        "href": "/ev3dev.github.io/projects/2015/03/12/Dalek/",
+        "author":  "@CallumCameron",
+        "date": "12 March 2015",
+        "loopid" : "post-48",
+        "category": "projects"
+    },
+    
+    {
+      "title"    : "SD Card Image Release",
+        "href": "/ev3dev.github.io/news/2015/02/24/SD-Card-Image-Release/",
+        "author":  "@dlech",
+        "date": "24 February 2015",
+        "loopid" : "post-49",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Package Release: brickman",
+        "href": "/ev3dev.github.io/news/2015/02/24/Package-Release/",
+        "author":  "@dlech",
+        "date": "24 February 2015",
+        "loopid" : "post-50",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Kernel Release: v3.16.7-ckt6-ev3dev1/dkms2.1",
+        "href": "/ev3dev.github.io/news/2015/02/22/Kernel-Release-v3.16.7-ckt6-ev3dev1/",
+        "author":  "@dlech",
+        "date": "22 February 2015",
+        "loopid" : "post-51",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "DKMS Driver Package 2.0",
+        "href": "/ev3dev.github.io/news/2015/02/14/DKMS-Driver-Package-2.0/",
+        "author":  "@dlech",
+        "date": "14 February 2015",
+        "loopid" : "post-52",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Package Release: connman, grx",
+        "href": "/ev3dev.github.io/news/2015/02/02/Package-Release/",
+        "author":  "@dlech",
+        "date": "02 February 2015",
+        "loopid" : "post-53",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Snake Game",
+        "href": "/ev3dev.github.io/projects/2015/01/30/Snake-Game/",
+        "author":  "@donwojtallo",
+        "date": "30 January 2015",
+        "loopid" : "post-54",
+        "category": "projects"
+    },
+    
+    {
+      "title"    : "Package Release: brickman, grx",
+        "href": "/ev3dev.github.io/news/2015/01/25/Package-Release/",
+        "author":  "@dlech",
+        "date": "25 January 2015",
+        "loopid" : "post-55",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Kernel Release: v3.16.7-ckt4-ev3dev1",
+        "href": "/ev3dev.github.io/news/2015/01/19/Kernel-Release-v3.16.7-ckt4-ev3dev1/",
+        "author":  "@dlech",
+        "date": "19 January 2015",
+        "loopid" : "post-56",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Package Release: connman, ev3dev-connman-config, grx",
+        "href": "/ev3dev.github.io/news/2015/01/16/Package-Release/",
+        "author":  "@dlech",
+        "date": "16 January 2015",
+        "loopid" : "post-57",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Package Release: brickman v0.3.0",
+        "href": "/ev3dev.github.io/news/2015/01/06/Package-Release-brickman-v0.3.0/",
+        "author":  "@dlech",
+        "date": "06 January 2015",
+        "loopid" : "post-58",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Kernel Release: v3.16.7-ckt3-ev3dev1",
+        "href": "/ev3dev.github.io/news/2015/01/06/Kernel-Release-v3.16.7-ckt3-ev3dev1/",
+        "author":  "@dlech",
+        "date": "06 January 2015",
+        "loopid" : "post-59",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Introducing The News Feed",
+        "href": "/ev3dev.github.io/news/2014/12/31/Introducing-the-News-Feed/",
+        "author":  "@ev3dev",
+        "date": "31 December 2014",
+        "loopid" : "post-60",
+        "category": "news"
+    },
+    
+    {
+      "title"    : "Ev3 Controlled Rcx",
+        "href": "/ev3dev.github.io/projects/2014/12/14/EV3-Controlled-RCX/",
+        "author":  "@G33kDude",
+        "date": "14 December 2014",
+        "loopid" : "post-61",
+        "category": "projects"
+    },
+    
+    {
+      "title"    : "Wiimote Controlled Rover",
+        "href": "/ev3dev.github.io/projects/2014/12/13/Wiimote-Controlled-Rover/",
+        "author":  "@G33kDude",
+        "date": "13 December 2014",
+        "loopid" : "post-62",
+        "category": "projects"
+    },
+    
+    {
+      "title"    : "Treev3",
+        "href": "/ev3dev.github.io/projects/2014/11/30/TreeV3/",
+        "author":  "@G33kDude",
+        "date": "30 November 2014",
+        "loopid" : "post-63",
+        "category": "projects"
+    },
+    
+    {
+      "title"    : "Ros On Ev3",
+        "href": "/ev3dev.github.io/projects/2014/11/17/ROS-on-EV3/",
+        "author":  "@moriarty",
+        "date": "17 November 2014",
+        "loopid" : "post-64",
+        "category": "projects"
+    },
+    
+    {
+      "title"    : "Led Demo",
+        "href": "/ev3dev.github.io/projects/2014/10/06/LED-Demo/",
+        "author":  "@dlech",
+        "date": "06 October 2014",
+        "loopid" : "post-65",
+        "category": "projects"
+    },
+    
+    {
+      "title"    : "Ev3 Simple Goodies",
+        "href": "/ev3dev.github.io/projects/2014/08/20/EV3-simple-goodies/",
+        "author":  "@BertLindeman",
+        "date": "20 August 2014",
+        "loopid" : "post-66",
+        "category": "projects"
+    },
+    
+    {
+      "title"    : "Balancing Robot",
+        "href": "/ev3dev.github.io/projects/2014/05/16/Balancing-Robot/",
+        "author":  "@G33kDude, @dlech",
+        "date": "16 May 2014",
+        "loopid" : "post-67",
+        "category": "projects"
+    },
+    
+    {
+      "title"    : "Python Rubiks Cube Solver",
+        "href": "/ev3dev.github.io/projects/2014/05/09/Python-Rubiks-Cube-Solver/",
+        "author":  "@cavenel",
+        "date": "09 May 2014",
+        "loopid" : "post-68",
+        "category": "projects"
+    },
+    
+    {
+      "title"    : "Example Project",
+        "href": "/ev3dev.github.io/projects/2014/03/21/Example-Project/",
+        "author":  "@wasabifan",
+        "date": "21 March 2014",
+        "loopid" : "post-69",
+        "category": "projects"
+    },
+        
+    
+    {
+      "title"    : "Actuonix L12 EV3 100mm (L12-EV3-100)",
+      "href"     : "/ev3dev.github.io/docs/motors/actuonix-l12-ev3-100mm/",
+      "loopid": "page-1",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > motors > actuonix-l12-ev3-100mm"
+    },
+    
+    {
+      "title"    : "Actuonix L12 EV3 50mm (L12-EV3-50)",
+      "href"     : "/ev3dev.github.io/docs/motors/actuonix-l12-ev3-50mm/",
+      "loopid": "page-2",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > motors > actuonix-l12-ev3-50mm"
+    },
+    
+    {
+      "title"    : "Adding a New Project",
+      "href"     : "/ev3dev.github.io/docs/tutorials/adding-new-project/",
+      "loopid": "page-3",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > adding-new-project"
+    },
+    
+    {
+      "title"    : "Atom news feed",
+      "href"     : "/ev3dev.github.io/news/atom.xml",
+      "loopid": "page-4",
+      "category": "",
+      
+      "breadcrumbs": "news > atom.xml"
+    },
+    
+    {
+      "title"    : "",
+      "href"     : "/ev3dev.github.io/stylesheets/bootstrap.css",
+      "loopid": "page-5",
+      "category": "",
+      
+      "breadcrumbs": "stylesheets > bootstrap.css"
+    },
+    
+    {
+      "title"    : "Dexter Industries BrickPi+ Battery Driver",
+      "href"     : "/ev3dev.github.io/docs/drivers/brickpi-battery/",
+      "loopid": "page-6",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers > brickpi-battery"
+    },
+    
+    {
+      "title"    : "Dexter Industries BrickPi I2C Sensor Driver",
+      "href"     : "/ev3dev.github.io/docs/drivers/brickpi-i2c-sensor/",
+      "loopid": "page-7",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers > brickpi-i2c-sensor"
+    },
+    
+    {
+      "title"    : "Dexter Industries BrickPi Input Port 5",
+      "href"     : "/ev3dev.github.io/docs/ports/brickpi-in-port-5/",
+      "loopid": "page-8",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > ports > brickpi-in-port-5"
+    },
+    
+    {
+      "title"    : "Dexter Industries BrickPi Input Port",
+      "href"     : "/ev3dev.github.io/docs/ports/brickpi-in-port/",
+      "loopid": "page-9",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > ports > brickpi-in-port"
+    },
+    
+    {
+      "title"    : "Dexter Industries BrickPi Line Discipline",
+      "href"     : "/ev3dev.github.io/docs/drivers/brickpi-ld/",
+      "loopid": "page-10",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers > brickpi-ld"
+    },
+    
+    {
+      "title"    : "Dexter Industries BrickPi Output Port",
+      "href"     : "/ev3dev.github.io/docs/ports/brickpi-out-port/",
+      "loopid": "page-11",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > ports > brickpi-out-port"
+    },
+    
+    {
+      "title"    : "Charmed Labs Pixy (CMUcam5) for LEGO",
+      "href"     : "/ev3dev.github.io/docs/sensors/charmed-labs-pixy-cmucam5-for-lego/",
+      "loopid": "page-12",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > charmed-labs-pixy-cmucam5-for-lego"
+    },
+    
+    {
+      "title"    : "Connecting to Ev3dev Using SSH",
+      "href"     : "/ev3dev.github.io/docs/tutorials/connecting-to-ev3dev-with-ssh/",
+      "loopid": "page-13",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > connecting-to-ev3dev-with-ssh"
+    },
+    
+    {
+      "title"    : "Connecting to the Internet via Bluetooth",
+      "href"     : "/ev3dev.github.io/docs/tutorials/connecting-to-the-internet-via-bluetooth/",
+      "loopid": "page-14",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > connecting-to-the-internet-via-bluetooth"
+    },
+    
+    {
+      "title"    : "Connecting to the Internet via USB",
+      "href"     : "/ev3dev.github.io/docs/tutorials/connecting-to-the-internet-via-usb/",
+      "loopid": "page-15",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > connecting-to-the-internet-via-usb"
+    },
+    
+    {
+      "title"    : "Contribute",
+      "href"     : "/ev3dev.github.io/contribute/",
+      "loopid": "page-16",
+      "category": "",
+      
+      "breadcrumbs": "contribute"
+    },
+    
+    {
+      "title"    : "Controlling a WeDo 2.0 motor",
+      "href"     : "/ev3dev.github.io/docs/tutorials/controlling-wedo2-motor/",
+      "loopid": "page-17",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > controlling-wedo2-motor"
+    },
+    
+    {
+      "title"    : "DC Motor Class",
+      "href"     : "/ev3dev.github.io/docs/drivers/dc-motor-class/",
+      "loopid": "page-18",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers > dc-motor-class"
+    },
+    
+    {
+      "title"    : "Dexter Industries dFlex",
+      "href"     : "/ev3dev.github.io/docs/sensors/dexter-industries-dflex/",
+      "loopid": "page-19",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > dexter-industries-dflex"
+    },
+    
+    {
+      "title"    : "Downloads",
+      "href"     : "/ev3dev.github.io/download/",
+      "loopid": "page-20",
+      "category": "",
+      
+      "breadcrumbs": "download"
+    },
+    
+    {
+      "title"    : "Hardware Drivers",
+      "href"     : "/ev3dev.github.io/docs/driver-overview/",
+      "loopid": "page-21",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > driver-overview"
+    },
+    
+    {
+      "title"    : "EV3 A/DC",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-adc/",
+      "loopid": "page-22",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-adc"
+    },
+    
+    {
+      "title"    : "EV3 Analog Sensor Driver",
+      "href"     : "/ev3dev.github.io/docs/drivers/ev3-analog-sensor/",
+      "loopid": "page-23",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers > ev3-analog-sensor"
+    },
+    
+    {
+      "title"    : "EV3 Bluetooth",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-bluetooth/",
+      "loopid": "page-24",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-bluetooth"
+    },
+    
+    {
+      "title"    : "EV3 Buttons",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-buttons/",
+      "loopid": "page-25",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-buttons"
+    },
+    
+    {
+      "title"    : "EV3 EEPROM",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-eeprom/",
+      "loopid": "page-26",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-eeprom"
+    },
+    
+    {
+      "title"    : "EV3 FIQ",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-fiq/",
+      "loopid": "page-27",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-fiq"
+    },
+    
+    {
+      "title"    : "EV3 I2C",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-i2c/",
+      "loopid": "page-28",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-i2c"
+    },
+    
+    {
+      "title"    : "EV3 LCD",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-lcd/",
+      "loopid": "page-29",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-lcd"
+    },
+    
+    {
+      "title"    : "EV3 LEDs",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-leds/",
+      "loopid": "page-30",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-leds"
+    },
+    
+    {
+      "title"    : "EV3 Motor Driver Chip",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-motor-driver/",
+      "loopid": "page-31",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-motor-driver"
+    },
+    
+    {
+      "title"    : "EV3 Processor",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-processor/",
+      "loopid": "page-32",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-processor"
+    },
+    
+    {
+      "title"    : "EV3 PRU",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-pru/",
+      "loopid": "page-33",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-pru"
+    },
+    
+    {
+      "title"    : "EV3 PWM",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-pwm/",
+      "loopid": "page-34",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-pwm"
+    },
+    
+    {
+      "title"    : "EV3 RTC",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-rtc/",
+      "loopid": "page-35",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-rtc"
+    },
+    
+    {
+      "title"    : "EV3 microSD Card Reader",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-sd-card-reader/",
+      "loopid": "page-36",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-sd-card-reader"
+    },
+    
+    {
+      "title"    : "",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-sensor-driver-model/",
+      "loopid": "page-37",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-sensor-driver-model"
+    },
+    
+    {
+      "title"    : "EV3 Sound",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-sound/",
+      "loopid": "page-38",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-sound"
+    },
+    
+    {
+      "title"    : "EV3 SPI",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-spi/",
+      "loopid": "page-39",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-spi"
+    },
+    
+    {
+      "title"    : "EV3 Timers",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-timers/",
+      "loopid": "page-40",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-timers"
+    },
+    
+    {
+      "title"    : "EV3 UART Sensor Line Discipline",
+      "href"     : "/ev3dev.github.io/docs/drivers/ev3-uart-sensor-ld/",
+      "loopid": "page-41",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers > ev3-uart-sensor-ld"
+    },
+    
+    {
+      "title"    : "EV3 UART",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-uart/",
+      "loopid": "page-42",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-uart"
+    },
+    
+    {
+      "title"    : "EV3 USB Host Port",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-usb-host-port/",
+      "loopid": "page-43",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-usb-host-port"
+    },
+    
+    {
+      "title"    : "EV3 USB OTG Port",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3-usb-otg-port/",
+      "loopid": "page-44",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3-usb-otg-port"
+    },
+    
+    {
+      "title"    : "ev3dev Linux Kernel",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/ev3dev-linux-kernel/",
+      "loopid": "page-45",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook > ev3dev-linux-kernel"
+    },
+    
+    {
+      "title"    : "Fatcatlab 9DOF Sensor",
+      "href"     : "/ev3dev.github.io/docs/sensors/fatcatlab-9dof-sensor/",
+      "loopid": "page-46",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > fatcatlab-9dof-sensor"
+    },
+    
+    {
+      "title"    : "Fatcatlab ADC Adapter",
+      "href"     : "/ev3dev.github.io/docs/sensors/fatcatlab-adc-adapter/",
+      "loopid": "page-47",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > fatcatlab-adc-adapter"
+    },
+    
+    {
+      "title"    : "Fatcatlab Altitude Sensor",
+      "href"     : "/ev3dev.github.io/docs/sensors/fatcatlab-altitude-sensor/",
+      "loopid": "page-48",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > fatcatlab-altitude-sensor"
+    },
+    
+    {
+      "title"    : "Fatcatlab Gesture Sensor",
+      "href"     : "/ev3dev.github.io/docs/sensors/fatcatlab-gesture-sensor/",
+      "loopid": "page-49",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > fatcatlab-gesture-sensor"
+    },
+    
+    {
+      "title"    : "Fatcatlab Humidity Sensor",
+      "href"     : "/ev3dev.github.io/docs/sensors/fatcatlab-humidity-sensor/",
+      "loopid": "page-50",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > fatcatlab-humidity-sensor"
+    },
+    
+    {
+      "title"    : "Fatcatlab IR Receiver",
+      "href"     : "/ev3dev.github.io/docs/sensors/fatcatlab-ir-receiver/",
+      "loopid": "page-51",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > fatcatlab-ir-receiver"
+    },
+    
+    {
+      "title"    : "Fatcatlab Light Sensor",
+      "href"     : "/ev3dev.github.io/docs/sensors/fatcatlab-light-sensor/",
+      "loopid": "page-52",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > fatcatlab-light-sensor"
+    },
+    
+    {
+      "title"    : "Generic EV3 Analog Sensor",
+      "href"     : "/ev3dev.github.io/docs/sensors/generic-ev3-analog-sensor/",
+      "loopid": "page-53",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > generic-ev3-analog-sensor"
+    },
+    
+    {
+      "title"    : "Generic NXT Analog Sensor",
+      "href"     : "/ev3dev.github.io/docs/sensors/generic-nxt-analog-sensor/",
+      "loopid": "page-54",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > generic-nxt-analog-sensor"
+    },
+    
+    {
+      "title"    : "Getting Started with C",
+      "href"     : "/ev3dev.github.io/docs/tutorials/getting-started-with-c/",
+      "loopid": "page-55",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > getting-started-with-c"
+    },
+    
+    {
+      "title"    : "Getting Started with ev3dev",
+      "href"     : "/ev3dev.github.io/docs/getting-started/",
+      "loopid": "page-56",
+      "category": "docs getting-started",
+      
+      "breadcrumbs": "docs > getting-started"
+    },
+    
+    {
+      "title"    : "HiTechnic NXT Acceleration / Tilt Sensor (NAC1040)",
+      "href"     : "/ev3dev.github.io/docs/sensors/hitechnic-nxt-acceleration-tilt-sensor/",
+      "loopid": "page-57",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > hitechnic-nxt-acceleration-tilt-sensor"
+    },
+    
+    {
+      "title"    : "HiTechnic NXT Angle Sensor (NAA1030)",
+      "href"     : "/ev3dev.github.io/docs/sensors/hitechnic-nxt-angle-sensor/",
+      "loopid": "page-58",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > hitechnic-nxt-angle-sensor"
+    },
+    
+    {
+      "title"    : "HiTechnic NXT Barometric Sensor (NBR1036)",
+      "href"     : "/ev3dev.github.io/docs/sensors/hitechnic-nxt-barometric-sensor/",
+      "loopid": "page-59",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > hitechnic-nxt-barometric-sensor"
+    },
+    
+    {
+      "title"    : "HiTechnic NXT Color Sensor V2 (NCO1038)",
+      "href"     : "/ev3dev.github.io/docs/sensors/hitechnic-nxt-color-sensor-v2/",
+      "loopid": "page-60",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > hitechnic-nxt-color-sensor-v2"
+    },
+    
+    {
+      "title"    : "HiTechnic NXT Color Sensor",
+      "href"     : "/ev3dev.github.io/docs/sensors/hitechnic-nxt-color-sensor/",
+      "loopid": "page-61",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > hitechnic-nxt-color-sensor"
+    },
+    
+    {
+      "title"    : "HiTechnic NXT Compass Sensor (NMC1034)",
+      "href"     : "/ev3dev.github.io/docs/sensors/hitechnic-nxt-compass-sensor/",
+      "loopid": "page-62",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > hitechnic-nxt-compass-sensor"
+    },
+    
+    {
+      "title"    : "HiTechnic NXT EOPD (NEO1048)",
+      "href"     : "/ev3dev.github.io/docs/sensors/hitechnic-nxt-eopd/",
+      "loopid": "page-63",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > hitechnic-nxt-eopd"
+    },
+    
+    {
+      "title"    : "HiTechnic NXT Force Sensor (NFS1074)",
+      "href"     : "/ev3dev.github.io/docs/sensors/hitechnic-nxt-force-sensor/",
+      "loopid": "page-64",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > hitechnic-nxt-force-sensor"
+    },
+    
+    {
+      "title"    : "HiTechnic NXT Gyro Sensor (NGY1044)",
+      "href"     : "/ev3dev.github.io/docs/sensors/hitechnic-nxt-gyro-sensor/",
+      "loopid": "page-65",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > hitechnic-nxt-gyro-sensor"
+    },
+    
+    {
+      "title"    : "HiTechnic NXT IRLink Sensor (NIL1046)",
+      "href"     : "/ev3dev.github.io/docs/sensors/hitechnic-nxt-irlink-sensor/",
+      "loopid": "page-66",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > hitechnic-nxt-irlink-sensor"
+    },
+    
+    {
+      "title"    : "HiTechnic NXT IRReceiver Sensor (NIR1032)",
+      "href"     : "/ev3dev.github.io/docs/sensors/hitechnic-nxt-irreceiver-sensor/",
+      "loopid": "page-67",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > hitechnic-nxt-irreceiver-sensor"
+    },
+    
+    {
+      "title"    : "HiTechnic NXT IRSeeker V2 (NSK1042)",
+      "href"     : "/ev3dev.github.io/docs/sensors/hitechnic-nxt-irseeker-v2/",
+      "loopid": "page-68",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > hitechnic-nxt-irseeker-v2"
+    },
+    
+    {
+      "title"    : "HiTechnic NXT Magnetic Sensor (NMS1035)",
+      "href"     : "/ev3dev.github.io/docs/sensors/hitechnic-nxt-magnetic-sensor/",
+      "loopid": "page-69",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > hitechnic-nxt-magnetic-sensor"
+    },
+    
+    {
+      "title"    : "HiTechnic NXT PIR Sensor (NIS1070)",
+      "href"     : "/ev3dev.github.io/docs/sensors/hitechnic-nxt-pir-sensor/",
+      "loopid": "page-70",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > hitechnic-nxt-pir-sensor"
+    },
+    
+    {
+      "title"    : "HiTechnic NXT Sensor Multiplexer (NSX2020)",
+      "href"     : "/ev3dev.github.io/docs/sensors/hitechnic-nxt-sensor-multiplexer/",
+      "loopid": "page-71",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > hitechnic-nxt-sensor-multiplexer"
+    },
+    
+    {
+      "title"    : "HiTechnic NXT SuperPro Prototype Board (SPR2010)",
+      "href"     : "/ev3dev.github.io/docs/sensors/hitechnic-nxt-superpro-prototype-board/",
+      "loopid": "page-72",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > hitechnic-nxt-superpro-prototype-board"
+    },
+    
+    {
+      "title"    : "HiTechnic NXT Sensor Multiplexer I2C sensor driver",
+      "href"     : "/ev3dev.github.io/docs/drivers/ht-nxt-smux-i2c-sensor/",
+      "loopid": "page-73",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers > ht-nxt-smux-i2c-sensor"
+    },
+    
+    {
+      "title"    : "HiTechnic NXT Sensor Multiplexer Input Port",
+      "href"     : "/ev3dev.github.io/docs/ports/ht-nxt-smux-port/",
+      "loopid": "page-74",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > ports > ht-nxt-smux-port"
+    },
+    
+    {
+      "title"    : "I2C Sensor Addressing",
+      "href"     : "/ev3dev.github.io/docs/sensors/i2c-sensor-addressing/",
+      "loopid": "page-75",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > i2c-sensor-addressing"
+    },
+    
+    {
+      "title"    : "News Archive",
+      "href"     : "/ev3dev.github.io/news/archive/",
+      "loopid": "page-76",
+      "category": "",
+      
+      "breadcrumbs": "news > archive"
+    },
+    
+    {
+      "title"    : "News",
+      "href"     : "/ev3dev.github.io/news/",
+      "loopid": "page-77",
+      "category": "",
+      
+      "breadcrumbs": "news"
+    },
+    
+    {
+      "title"    : "Tutorials",
+      "href"     : "/ev3dev.github.io/docs/tutorials/",
+      "loopid": "page-78",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials"
+    },
+    
+    {
+      "title"    : "ev3dev Developer Tools",
+      "href"     : "/ev3dev.github.io/docs/devtools/",
+      "loopid": "page-79",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > devtools"
+    },
+    
+    {
+      "title"    : "Projects",
+      "href"     : "/ev3dev.github.io/projects/",
+      "loopid": "page-80",
+      "category": "",
+      
+      "breadcrumbs": "projects"
+    },
+    
+    {
+      "title"    : "Input and Output Ports",
+      "href"     : "/ev3dev.github.io/docs/ports/",
+      "loopid": "page-81",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > ports"
+    },
+    
+    {
+      "title"    : "Motors",
+      "href"     : "/ev3dev.github.io/docs/motors/",
+      "loopid": "page-82",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > motors"
+    },
+    
+    {
+      "title"    : "Sensors",
+      "href"     : "/ev3dev.github.io/docs/sensors/",
+      "loopid": "page-83",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors"
+    },
+    
+    {
+      "title"    : "Drivers",
+      "href"     : "/ev3dev.github.io/docs/drivers/",
+      "loopid": "page-84",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers"
+    },
+    
+    {
+      "title"    : "The Kernel Hacker's Notebook",
+      "href"     : "/ev3dev.github.io/docs/kernel-hackers-notebook/",
+      "loopid": "page-85",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > kernel-hackers-notebook"
+    },
+    
+    {
+      "title"    : "Documentation",
+      "href"     : "/ev3dev.github.io/docs/",
+      "loopid": "page-86",
+      "category": "docs",
+      
+      "breadcrumbs": "docs"
+    },
+    
+    {
+      "title"    : "ev3dev Home",
+      "href"     : "/ev3dev.github.io/",
+      "loopid": "page-87",
+      "category": "",
+      
+      "breadcrumbs": ""
+    },
+    
+    {
+      "title"    : "Installing the ev3dev Archive",
+      "href"     : "/ev3dev.github.io/docs/devtools/installing-the-ev3dev-archive/",
+      "loopid": "page-88",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > devtools > installing-the-ev3dev-archive"
+    },
+    
+    {
+      "title"    : "",
+      "href"     : "/ev3dev.github.io/stylesheets/landing-content.css",
+      "loopid": "page-89",
+      "category": "",
+      
+      "breadcrumbs": "stylesheets > landing-content.css"
+    },
+    
+    {
+      "title"    : "LEGO E-Motor (9670)",
+      "href"     : "/ev3dev.github.io/docs/motors/lego-e-motor/",
+      "loopid": "page-90",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > motors > lego-e-motor"
+    },
+    
+    {
+      "title"    : "LEGO Energy Display (9668)",
+      "href"     : "/ev3dev.github.io/docs/sensors/lego-energy-display/",
+      "loopid": "page-91",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > lego-energy-display"
+    },
+    
+    {
+      "title"    : "LEGO EV3 Color Sensor (45506)",
+      "href"     : "/ev3dev.github.io/docs/sensors/lego-ev3-color-sensor/",
+      "loopid": "page-92",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > lego-ev3-color-sensor"
+    },
+    
+    {
+      "title"    : "LEGO EV3 Gyro Sensor (45505)",
+      "href"     : "/ev3dev.github.io/docs/sensors/lego-ev3-gyro-sensor/",
+      "loopid": "page-93",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > lego-ev3-gyro-sensor"
+    },
+    
+    {
+      "title"    : "LEGO EV3 Infrared Sensor (45509)",
+      "href"     : "/ev3dev.github.io/docs/sensors/lego-ev3-infrared-sensor/",
+      "loopid": "page-94",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > lego-ev3-infrared-sensor"
+    },
+    
+    {
+      "title"    : "LEGO EV3 Large Servo Motor (45502)",
+      "href"     : "/ev3dev.github.io/docs/motors/lego-ev3-large-servo-motor/",
+      "loopid": "page-95",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > motors > lego-ev3-large-servo-motor"
+    },
+    
+    {
+      "title"    : "LEGO EV3 Medium Servo Motor (45503)",
+      "href"     : "/ev3dev.github.io/docs/motors/lego-ev3-medium-servo-motor/",
+      "loopid": "page-96",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > motors > lego-ev3-medium-servo-motor"
+    },
+    
+    {
+      "title"    : "LEGO EV3 Touch Sensor (45507)",
+      "href"     : "/ev3dev.github.io/docs/sensors/lego-ev3-touch-sensor/",
+      "loopid": "page-97",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > lego-ev3-touch-sensor"
+    },
+    
+    {
+      "title"    : "LEGO EV3 Ultrasonic Sensor (45504)",
+      "href"     : "/ev3dev.github.io/docs/sensors/lego-ev3-ultrasonic-sensor/",
+      "loopid": "page-98",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > lego-ev3-ultrasonic-sensor"
+    },
+    
+    {
+      "title"    : "LEGO Interactive Servo Motor (NXT) (9842)",
+      "href"     : "/ev3dev.github.io/docs/motors/lego-interactive-servo-motor-nxt/",
+      "loopid": "page-99",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > motors > lego-interactive-servo-motor-nxt"
+    },
+    
+    {
+      "title"    : "LEGO Motor 9V Micromotor (70823)",
+      "href"     : "/ev3dev.github.io/docs/motors/lego-motor-9v-micromotor/",
+      "loopid": "page-100",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > motors > lego-motor-9v-micromotor"
+    },
+    
+    {
+      "title"    : "LEGO Motor 9V Mini-motor, newer lighter weight (43362)",
+      "href"     : "/ev3dev.github.io/docs/motors/lego-motor-9v-mini-motor-newer-lighter-weight/",
+      "loopid": "page-101",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > motors > lego-motor-9v-mini-motor-newer-lighter-weight"
+    },
+    
+    {
+      "title"    : "LEGO Motor 9V Mini-motor, older heavier weight (71427)",
+      "href"     : "/ev3dev.github.io/docs/motors/lego-motor-9v-mini-motor-older-heavier-weight/",
+      "loopid": "page-102",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > motors > lego-motor-9v-mini-motor-older-heavier-weight"
+    },
+    
+    {
+      "title"    : "LEGO NXT Light Sensor (9844)",
+      "href"     : "/ev3dev.github.io/docs/sensors/lego-nxt-light-sensor/",
+      "loopid": "page-103",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > lego-nxt-light-sensor"
+    },
+    
+    {
+      "title"    : "LEGO NXT Sound Sensor (9845)",
+      "href"     : "/ev3dev.github.io/docs/sensors/lego-nxt-sound-sensor/",
+      "loopid": "page-104",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > lego-nxt-sound-sensor"
+    },
+    
+    {
+      "title"    : "LEGO NXT Temperature Sensor (9749)",
+      "href"     : "/ev3dev.github.io/docs/sensors/lego-nxt-temperature-sensor/",
+      "loopid": "page-105",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > lego-nxt-temperature-sensor"
+    },
+    
+    {
+      "title"    : "LEGO NXT Touch Sensor (9843)",
+      "href"     : "/ev3dev.github.io/docs/sensors/lego-nxt-touch-sensor/",
+      "loopid": "page-106",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > lego-nxt-touch-sensor"
+    },
+    
+    {
+      "title"    : "LEGO NXT Ultrasonic Sensor (9846)",
+      "href"     : "/ev3dev.github.io/docs/sensors/lego-nxt-ultrasonic-sensor/",
+      "loopid": "page-107",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > lego-nxt-ultrasonic-sensor"
+    },
+    
+    {
+      "title"    : "LEGO Port Class Driver",
+      "href"     : "/ev3dev.github.io/docs/drivers/lego-port-class/",
+      "loopid": "page-108",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers > lego-port-class"
+    },
+    
+    {
+      "title"    : "LEGO Power Functions L-Motor (88003)",
+      "href"     : "/ev3dev.github.io/docs/motors/lego-power-functions-l-motor/",
+      "loopid": "page-109",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > motors > lego-power-functions-l-motor"
+    },
+    
+    {
+      "title"    : "LEGO Power Functions M-Motor (8883)",
+      "href"     : "/ev3dev.github.io/docs/motors/lego-power-functions-m-motor/",
+      "loopid": "page-110",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > motors > lego-power-functions-m-motor"
+    },
+    
+    {
+      "title"    : "LEGO Power Functions Servo Motor (88004)",
+      "href"     : "/ev3dev.github.io/docs/motors/lego-power-functions-servo-motor/",
+      "loopid": "page-111",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > motors > lego-power-functions-servo-motor"
+    },
+    
+    {
+      "title"    : "LEGO Power Functions Train Motor (88002)",
+      "href"     : "/ev3dev.github.io/docs/motors/lego-power-functions-train-motor/",
+      "loopid": "page-112",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > motors > lego-power-functions-train-motor"
+    },
+    
+    {
+      "title"    : "LEGO Power Functions XL-Motor (8882)",
+      "href"     : "/ev3dev.github.io/docs/motors/lego-power-functions-xl-motor/",
+      "loopid": "page-113",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > motors > lego-power-functions-xl-motor"
+    },
+    
+    {
+      "title"    : "LEGO Sensor Class",
+      "href"     : "/ev3dev.github.io/docs/drivers/lego-sensor-class/",
+      "loopid": "page-114",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers > lego-sensor-class"
+    },
+    
+    {
+      "title"    : "LEGO Technic Motor 9V Geared  (47154)",
+      "href"     : "/ev3dev.github.io/docs/motors/lego-technic-motor-9v-geared/",
+      "loopid": "page-115",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > motors > lego-technic-motor-9v-geared"
+    },
+    
+    {
+      "title"    : "LEGO Technic Motor 9V (74569)",
+      "href"     : "/ev3dev.github.io/docs/motors/lego-technic-motor-9v/",
+      "loopid": "page-116",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > motors > lego-technic-motor-9v"
+    },
+    
+    {
+      "title"    : "LEGO WeDo Motion Sensor (9583)",
+      "href"     : "/ev3dev.github.io/docs/sensors/lego-wedo-motion-sensor/",
+      "loopid": "page-117",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > lego-wedo-motion-sensor"
+    },
+    
+    {
+      "title"    : "LEGO WeDo Tilt Sensor (9584)",
+      "href"     : "/ev3dev.github.io/docs/sensors/lego-wedo-tilt-sensor/",
+      "loopid": "page-118",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > lego-wedo-tilt-sensor"
+    },
+    
+    {
+      "title"    : "LEGO WeDo USB Hub (9581)",
+      "href"     : "/ev3dev.github.io/docs/sensors/lego-wedo-usb-hub/",
+      "loopid": "page-119",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > lego-wedo-usb-hub"
+    },
+    
+    {
+      "title"    : "EV3 Input Port",
+      "href"     : "/ev3dev.github.io/docs/ports/legoev3-input-port/",
+      "loopid": "page-120",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > ports > legoev3-input-port"
+    },
+    
+    {
+      "title"    : "EV3/NXT Tacho Motor Driver",
+      "href"     : "/ev3dev.github.io/docs/drivers/legoev3-motor/",
+      "loopid": "page-121",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers > legoev3-motor"
+    },
+    
+    {
+      "title"    : "EV3 Output Port",
+      "href"     : "/ev3dev.github.io/docs/ports/legoev3-output-port/",
+      "loopid": "page-122",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > ports > legoev3-output-port"
+    },
+    
+    {
+      "title"    : "EV3 Input and Output Ports",
+      "href"     : "/ev3dev.github.io/docs/drivers/legoev3-ports/",
+      "loopid": "page-123",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers > legoev3-ports"
+    },
+    
+    {
+      "title"    : "Microinfinity Digital Gyroscope And Accelerometer (CruizCore XG 1300L)",
+      "href"     : "/ev3dev.github.io/docs/sensors/microinfinity-digital-gyroscope-and-accelerometer/",
+      "loopid": "page-124",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > microinfinity-digital-gyroscope-and-accelerometer"
+    },
+    
+    {
+      "title"    : "mindsensors.com 8-channel Servo Controller (NxtServo)",
+      "href"     : "/ev3dev.github.io/docs/sensors/mindsensors.com-8-channel-servo-controller/",
+      "loopid": "page-125",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > mindsensors.com-8-channel-servo-controller"
+    },
+    
+    {
+      "title"    : "mindsensors.com Digital Pneumatic Pressure Sensor (PPS58-Nx)",
+      "href"     : "/ev3dev.github.io/docs/sensors/mindsensors.com-digital-pneumatic-pressure-sensor/",
+      "loopid": "page-126",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > mindsensors.com-digital-pneumatic-pressure-sensor"
+    },
+    
+    {
+      "title"    : "mindsensors.com EV3 Sensor Multiplexer (EV3SensorMUX)",
+      "href"     : "/ev3dev.github.io/docs/sensors/mindsensors.com-ev3-sensor-multiplexer/",
+      "loopid": "page-127",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > mindsensors.com-ev3-sensor-multiplexer"
+    },
+    
+    {
+      "title"    : "mindsensors.com GlideWheel-AS (AngleSensor)",
+      "href"     : "/ev3dev.github.io/docs/sensors/mindsensors.com-glidewheel-as/",
+      "loopid": "page-128",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > mindsensors.com-glidewheel-as"
+    },
+    
+    {
+      "title"    : "mindsensors.com Gyro, MultiSensitivity Accelerometer and Compass (AbsoluteIMU(-A/C/G))",
+      "href"     : "/ev3dev.github.io/docs/sensors/mindsensors.com-gyro-multisensitivity-accelerometer-and-compass/",
+      "loopid": "page-129",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > mindsensors.com-gyro-multisensitivity-accelerometer-and-compass"
+    },
+    
+    {
+      "title"    : "mindsensors.com Light Sensor Array (LightSensorArray)",
+      "href"     : "/ev3dev.github.io/docs/sensors/mindsensors.com-light-sensor-array/",
+      "loopid": "page-130",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > mindsensors.com-light-sensor-array"
+    },
+    
+    {
+      "title"    : "mindsensors.com Line Follower Sensor (LineLeader)",
+      "href"     : "/ev3dev.github.io/docs/sensors/mindsensors.com-line-follower-sensor/",
+      "loopid": "page-131",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > mindsensors.com-line-follower-sensor"
+    },
+    
+    {
+      "title"    : "mindsensors.com Multiplexer for NXT/EV3 Motors (NXTMMX-v2)",
+      "href"     : "/ev3dev.github.io/docs/sensors/mindsensors.com-multiplexer-for-nxt-ev3-motors/",
+      "loopid": "page-132",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > mindsensors.com-multiplexer-for-nxt-ev3-motors"
+    },
+    
+    {
+      "title"    : "mindsensors.com Pixy Adapter for MINDSTORMS EV3 or NXT (PixyAdapter)",
+      "href"     : "/ev3dev.github.io/docs/sensors/mindsensors.com-pixy-adapter-for-mindstorms-ev3-or-nxt/",
+      "loopid": "page-133",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > mindsensors.com-pixy-adapter-for-mindstorms-ev3-or-nxt"
+    },
+    
+    {
+      "title"    : "mindsensors.com Realtime Clock for NXT (RTC-Nx-v3)",
+      "href"     : "/ev3dev.github.io/docs/sensors/mindsensors.com-realtime-clock-for-nxt/",
+      "loopid": "page-134",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > mindsensors.com-realtime-clock-for-nxt"
+    },
+    
+    {
+      "title"    : "mindsensors.com Sensor building kit for NXT with PCF8574 IC (PCF8574-Nx)",
+      "href"     : "/ev3dev.github.io/docs/sensors/mindsensors.com-sensor-building-kit-for-nxt-with-pcf8574-ic/",
+      "loopid": "page-135",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > mindsensors.com-sensor-building-kit-for-nxt-with-pcf8574-ic"
+    },
+    
+    {
+      "title"    : "mindsensors.com Sensor building kit for NXT with PCF8591 IC (PCF8591-Nx)",
+      "href"     : "/ev3dev.github.io/docs/sensors/mindsensors.com-sensor-building-kit-for-nxt-with-pcf8591-ic/",
+      "loopid": "page-136",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > mindsensors.com-sensor-building-kit-for-nxt-with-pcf8591-ic"
+    },
+    
+    {
+      "title"    : "mindsensors.com Touch Sensor Multiplexer for NXT & EV3 (TouchMux)",
+      "href"     : "/ev3dev.github.io/docs/sensors/mindsensors.com-touch-sensor-multiplexer-for-nxt-ev3/",
+      "loopid": "page-137",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > mindsensors.com-touch-sensor-multiplexer-for-nxt-ev3"
+    },
+    
+    {
+      "title"    : "mindsensors.com Vision Subsystem v4 for NXT or EV3 (NXTCam-v4)",
+      "href"     : "/ev3dev.github.io/docs/sensors/mindsensors.com-vision-subsystem-v4-for-nxt-or-ev3/",
+      "loopid": "page-138",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > mindsensors.com-vision-subsystem-v4-for-nxt-or-ev3"
+    },
+    
+    {
+      "title"    : "mindsensors.com EV3 Sensor Multiplexer Input Port",
+      "href"     : "/ev3dev.github.io/docs/ports/ms-ev3-smux-port/",
+      "loopid": "page-139",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > ports > ms-ev3-smux-port"
+    },
+    
+    {
+      "title"    : "mindsensors.com NXTMMX Output Port",
+      "href"     : "/ev3dev.github.io/docs/ports/ms-nxtmmx-out-port/",
+      "loopid": "page-140",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > ports > ms-nxtmmx-out-port"
+    },
+    
+    {
+      "title"    : "Nano cheat sheet",
+      "href"     : "/ev3dev.github.io/docs/tutorials/nano-cheat-sheet/",
+      "loopid": "page-141",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > nano-cheat-sheet"
+    },
+    
+    {
+      "title"    : "Networking",
+      "href"     : "/ev3dev.github.io/docs/networking/",
+      "loopid": "page-142",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > networking"
+    },
+    
+    {
+      "title"    : "NXT Analog Sensor Driver",
+      "href"     : "/ev3dev.github.io/docs/drivers/nxt-analog-sensor/",
+      "loopid": "page-143",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers > nxt-analog-sensor"
+    },
+    
+    {
+      "title"    : "NXT I2C Sensor Driver",
+      "href"     : "/ev3dev.github.io/docs/drivers/nxt-i2c-sensor/",
+      "loopid": "page-144",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers > nxt-i2c-sensor"
+    },
+    
+    {
+      "title"    : "Using the mindsensors.com NxtMMX Motor Controller",
+      "href"     : "/ev3dev.github.io/docs/tutorials/nxtmmx/",
+      "loopid": "page-145",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > nxtmmx"
+    },
+    
+    {
+      "title"    : "Debian Packaging for ev3dev",
+      "href"     : "/ev3dev.github.io/docs/devtools/packaging-for-ev3dev/",
+      "loopid": "page-146",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > devtools > packaging-for-ev3dev"
+    },
+    
+    {
+      "title"    : "",
+      "href"     : "/ev3dev.github.io/stylesheets/page-content.css",
+      "loopid": "page-147",
+      "category": "",
+      
+      "breadcrumbs": "stylesheets > page-content.css"
+    },
+    
+    {
+      "title"    : "mindsensors.com PiStorms Input Port",
+      "href"     : "/ev3dev.github.io/docs/ports/pistorms-in-port/",
+      "loopid": "page-148",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > ports > pistorms-in-port"
+    },
+    
+    {
+      "title"    : "mindsensors.com PiStorms Output Port",
+      "href"     : "/ev3dev.github.io/docs/ports/pistorms-out-port/",
+      "loopid": "page-149",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > ports > pistorms-out-port"
+    },
+    
+    {
+      "title"    : "mindsensors.com PiStorms",
+      "href"     : "/ev3dev.github.io/docs/drivers/pistorms/",
+      "loopid": "page-150",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers > pistorms"
+    },
+    
+    {
+      "title"    : "Platform Comparison",
+      "href"     : "/ev3dev.github.io/docs/platform-comparison/",
+      "loopid": "page-151",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > platform-comparison"
+    },
+    
+    {
+      "title"    : "Programming Languages",
+      "href"     : "/ev3dev.github.io/docs/programming-languages/",
+      "loopid": "page-152",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > programming-languages"
+    },
+    
+    {
+      "title"    : "RCX/Power Functions LED Driver",
+      "href"     : "/ev3dev.github.io/docs/drivers/rcx-led/",
+      "loopid": "page-153",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers > rcx-led"
+    },
+    
+    {
+      "title"    : "RCX/Power Functions Motor Driver",
+      "href"     : "/ev3dev.github.io/docs/drivers/rcx-motor/",
+      "loopid": "page-154",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers > rcx-motor"
+    },
+    
+    {
+      "title"    : "",
+      "href"     : "/ev3dev.github.io/search-index.json",
+      "loopid": "page-155",
+      "category": "",
+      
+      "breadcrumbs": "search-index.json"
+    },
+    
+    {
+      "title"    : "",
+      "href"     : "/ev3dev.github.io/stylesheets/search.css",
+      "loopid": "page-156",
+      "category": "",
+      
+      "breadcrumbs": "stylesheets > search.css"
+    },
+    
+    {
+      "title"    : "Sending and Receiving Messages with MQTT",
+      "href"     : "/ev3dev.github.io/docs/tutorials/sending-and-receiving-messages-with-mqtt/",
+      "loopid": "page-157",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > sending-and-receiving-messages-with-mqtt"
+    },
+    
+    {
+      "title"    : "Servo Motor Class",
+      "href"     : "/ev3dev.github.io/docs/drivers/servo-motor-class/",
+      "loopid": "page-158",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers > servo-motor-class"
+    },
+    
+    {
+      "title"    : "Setting Up an NFS File Share",
+      "href"     : "/ev3dev.github.io/docs/tutorials/setting-up-an-nfs-file-share/",
+      "loopid": "page-159",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > setting-up-an-nfs-file-share"
+    },
+    
+    {
+      "title"    : "",
+      "href"     : "/ev3dev.github.io/docs/tutorials/setting-up-ethernet-over-usb-on-linux-networkmanager/",
+      "loopid": "page-160",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > setting-up-ethernet-over-usb-on-linux-networkmanager"
+    },
+    
+    {
+      "title"    : "",
+      "href"     : "/ev3dev.github.io/docs/tutorials/setting-up-ethernet-over-usb-on-mac/",
+      "loopid": "page-161",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > setting-up-ethernet-over-usb-on-mac"
+    },
+    
+    {
+      "title"    : "",
+      "href"     : "/ev3dev.github.io/docs/tutorials/setting-up-ethernet-over-usb-on-windows/",
+      "loopid": "page-162",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > setting-up-ethernet-over-usb-on-windows"
+    },
+    
+    {
+      "title"    : "Setting Up a Python Development Environment with PyCharm",
+      "href"     : "/ev3dev.github.io/docs/tutorials/setting-up-python-pycharm/",
+      "loopid": "page-163",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > setting-up-python-pycharm"
+    },
+    
+    {
+      "title"    : "Setting Up The ev3dev Build Ecosystem (obsolete)",
+      "href"     : "/ev3dev.github.io/docs/devtools/setting-up-the-ev3dev-build-ecosystem/",
+      "loopid": "page-164",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > devtools > setting-up-the-ev3dev-build-ecosystem"
+    },
+    
+    {
+      "title"    : "Setting Up Wi-Fi Using the Command Line",
+      "href"     : "/ev3dev.github.io/docs/tutorials/setting-up-wifi-using-the-command-line/",
+      "loopid": "page-165",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > setting-up-wifi-using-the-command-line"
+    },
+    
+    {
+      "title"    : "Share",
+      "href"     : "/ev3dev.github.io/share/",
+      "loopid": "page-166",
+      "category": "",
+      
+      "breadcrumbs": "share"
+    },
+    
+    {
+      "title"    : "",
+      "href"     : "/ev3dev.github.io/stylesheets/site-structure.css",
+      "loopid": "page-167",
+      "category": "",
+      
+      "breadcrumbs": "stylesheets > site-structure.css"
+    },
+    
+    {
+      "title"    : "Support",
+      "href"     : "/ev3dev.github.io/support/",
+      "loopid": "page-168",
+      "category": "",
+      
+      "breadcrumbs": "support"
+    },
+    
+    {
+      "title"    : "",
+      "href"     : "/ev3dev.github.io/stylesheets/tabs.css",
+      "loopid": "page-169",
+      "category": "",
+      
+      "breadcrumbs": "stylesheets > tabs.css"
+    },
+    
+    {
+      "title"    : "Tacho Motor Class",
+      "href"     : "/ev3dev.github.io/docs/drivers/tacho-motor-class/",
+      "loopid": "page-170",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers > tacho-motor-class"
+    },
+    
+    {
+      "title"    : "Using the Tacho-Motor Class",
+      "href"     : "/ev3dev.github.io/docs/tutorials/tacho-motors/",
+      "loopid": "page-171",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > tacho-motors"
+    },
+    
+    {
+      "title"    : "Upgrading Ev3dev",
+      "href"     : "/ev3dev.github.io/docs/tutorials/upgrading-ev3dev/",
+      "loopid": "page-172",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > upgrading-ev3dev"
+    },
+    
+    {
+      "title"    : "",
+      "href"     : "/ev3dev.github.io/stylesheets/user-cards.css",
+      "loopid": "page-173",
+      "category": "",
+      
+      "breadcrumbs": "stylesheets > user-cards.css"
+    },
+    
+    {
+      "title"    : "User-defined LEGO devices using configfs",
+      "href"     : "/ev3dev.github.io/docs/drivers/user-lego-configfs/",
+      "loopid": "page-174",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers > user-lego-configfs"
+    },
+    
+    {
+      "title"    : "User-defined LEGO sensor devices",
+      "href"     : "/ev3dev.github.io/docs/drivers/user-lego-sensor/",
+      "loopid": "page-175",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > drivers > user-lego-sensor"
+    },
+    
+    {
+      "title"    : "Using Bluetooth Tethering",
+      "href"     : "/ev3dev.github.io/docs/tutorials/using-bluetooth-tethering/",
+      "loopid": "page-176",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > using-bluetooth-tethering"
+    },
+    
+    {
+      "title"    : "Using Brickstrap to Cross-Compile (obsolete)",
+      "href"     : "/ev3dev.github.io/docs/tutorials/using-brickstrap-to-cross-compile/",
+      "loopid": "page-177",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > using-brickstrap-to-cross-compile"
+    },
+    
+    {
+      "title"    : "Using Docker to Cross-Compile",
+      "href"     : "/ev3dev.github.io/docs/tutorials/using-docker-to-cross-compile/",
+      "loopid": "page-178",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > using-docker-to-cross-compile"
+    },
+    
+    {
+      "title"    : "Using the EV3 Buttons",
+      "href"     : "/ev3dev.github.io/docs/tutorials/using-ev3-buttons/",
+      "loopid": "page-179",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > using-ev3-buttons"
+    },
+    
+    {
+      "title"    : "Using the EV3 LCD",
+      "href"     : "/ev3dev.github.io/docs/tutorials/using-ev3-lcd/",
+      "loopid": "page-180",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > using-ev3-lcd"
+    },
+    
+    {
+      "title"    : "Using I2C Sensors",
+      "href"     : "/ev3dev.github.io/docs/sensors/using-i2c-sensors/",
+      "loopid": "page-181",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > sensors > using-i2c-sensors"
+    },
+    
+    {
+      "title"    : "Using the LEGO Dimensions Toy Pad",
+      "href"     : "/ev3dev.github.io/docs/tutorials/using-lego-dimensions-toy-pad/",
+      "loopid": "page-182",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > using-lego-dimensions-toy-pad"
+    },
+    
+    {
+      "title"    : "Using the CMUcam5 Pixy for LEGO Mindstorms",
+      "href"     : "/ev3dev.github.io/docs/tutorials/using-pixy-camera/",
+      "loopid": "page-183",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > using-pixy-camera"
+    },
+    
+    {
+      "title"    : "Bluetooth PS3 gamepad in Python",
+      "href"     : "/ev3dev.github.io/docs/tutorials/using-ps3-sixaxis/",
+      "loopid": "page-184",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > using-ps3-sixaxis"
+    },
+    
+    {
+      "title"    : "Using the Raspberry Pi Camera",
+      "href"     : "/ev3dev.github.io/docs/tutorials/using-rpi-camera/",
+      "loopid": "page-185",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > using-rpi-camera"
+    },
+    
+    {
+      "title"    : "Using USB Tethering",
+      "href"     : "/ev3dev.github.io/docs/tutorials/using-usb-tethering/",
+      "loopid": "page-186",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > using-usb-tethering"
+    },
+    
+    {
+      "title"    : "Using the XV11 LIDAR",
+      "href"     : "/ev3dev.github.io/docs/tutorials/using-xv11-lidar/",
+      "loopid": "page-187",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > using-xv11-lidar"
+    },
+    
+    {
+      "title"    : "LEGO WeDo Port",
+      "href"     : "/ev3dev.github.io/docs/ports/wedo-port/",
+      "loopid": "page-188",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > ports > wedo-port"
+    },
+    
+    {
+      "title"    : "Writing an SD Card Image Using Linux Command Line Tools",
+      "href"     : "/ev3dev.github.io/docs/tutorials/writing-sd-card-image-linux-command-line/",
+      "loopid": "page-189",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > writing-sd-card-image-linux-command-line"
+    },
+    
+    {
+      "title"    : "Writing an SD Card Image Using Apple Pi Baker on OS X",
+      "href"     : "/ev3dev.github.io/docs/tutorials/writing-sd-card-image-osx-apple-pi-baker/",
+      "loopid": "page-190",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > writing-sd-card-image-osx-apple-pi-baker"
+    },
+    
+    {
+      "title"    : "Writing an SD Card Image Using Command Line Tools on OS X",
+      "href"     : "/ev3dev.github.io/docs/tutorials/writing-sd-card-image-osx-command-line/",
+      "loopid": "page-191",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > writing-sd-card-image-osx-command-line"
+    },
+    
+    {
+      "title"    : "Writing an SD Card Image Using Ubuntu Disk Image Writer",
+      "href"     : "/ev3dev.github.io/docs/tutorials/writing-sd-card-image-ubuntu-disk-image-writer/",
+      "loopid": "page-192",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > writing-sd-card-image-ubuntu-disk-image-writer"
+    },
+    
+    {
+      "title"    : "Writing an SD Card Image Using Win32DiskImager",
+      "href"     : "/ev3dev.github.io/docs/tutorials/writing-sd-card-image-win32diskimager/",
+      "loopid": "page-193",
+      "category": "docs",
+      
+      "breadcrumbs": "docs > tutorials > writing-sd-card-image-win32diskimager"
+    },
+    
+    false    
+]
